@@ -63,4 +63,6 @@ Part 2 – Reflection
 ---
 
 
-I've always seen the terminal as an interesting place that's between us and our Java files. Through these past few labs, we learned how to interact at more deeper level with the terminal. Blurring this obvious line as we learn how to make bash scripts that run commands on the terminal itself then using the process class in Java files as well. Then the separation completely disappears when vim comes along and make us able to edit Java files on the terminal. I've learned that the terminal isn't just some subspace to run files, but is an important tool that I could use for my benefit as a programmer and I believe that fact alone is of the most important things that I've learned from this class. 
+I've always seen the terminal as an interesting place that's between us and our Java files. Through these past few labs, we learned how to interact at more deeper level with the terminal. Blurring this obvious line as we learn how to make bash scripts that run commands on the terminal itself then using the process class in Java files as well. Then the separation completely disappears when vim comes along and make us able to edit Java files on the terminal. I've learned that the terminal isn't just some subspace to run files, but is an important tool that I could use for my benefit as a programmer and I believe that fact alone is of the most important things that I've learned from this class.     
+
+As my last words, Thank you for all your hard work! It's been a pleasure doing this class :)
